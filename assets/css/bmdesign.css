@@ -1,0 +1,21 @@
+:root {
+  --main-branding-color: #ff0000;
+  --main-branding-color-hover: #ff0000;
+  --main-branding-color-active: #ff0000;
+  --main-branding-color-focus: #ff0000;
+  --main-branding-color-disabled: #ff0000;
+  --main-branding-color-contrast: #ffffff;
+  --submain-branding-color: #ff0000;
+  --submain-branding-color-hover: #ff0000;
+  --submain-branding-color-active: #ff0000;
+  --submain-branding-color-focus: #ff0000;
+  --submain-branding-color-disabled: #ff0000;
+  --submain-branding-color-contrast: #ffffff;
+  --third-branding-color: #ff0000;
+  --third-branding-color-hover: #ff0000;
+  --third-branding-color-active: #ff0000;
+  --third-branding-color-focus: #ff0000;
+  --third-branding-color-disabled: #ff0000;
+  --third-branding-color-contrast: #ffffff;
+}
+
